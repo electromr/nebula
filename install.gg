@@ -1,0 +1,6 @@
+
+git clone https://github.com/username5642/nebula.git
+cd nebula
+mv nebula.blueprint /var/www/pterodactyl
+cd
+echo Nebula Sucessfully Come to pterodactyl Directyl
