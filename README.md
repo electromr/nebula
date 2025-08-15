@@ -5,11 +5,13 @@
 `cd nebula`
 
 # RUN INSTALLER
-bash install.gg
+`bash install.gg`
 
-# NOW RUN THE THEME
-cd /etc/pterodactyl
-blueprint -install nebula
+# COME IN PTERODACTYL DIRECTYL
+`cd /etc/pterodactyl`
+
+# RUN NEBULA DESIGNER IN PANEL
+`blueprint -install nebula`
 
 # ORTHER INFORMATION
 `https://blueprint.zip`
