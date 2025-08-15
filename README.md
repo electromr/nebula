@@ -4,9 +4,12 @@
 # CD
 `cd nebula`
 
-# YOU GET NEBULA.bluepint
+# RUN INSTALLER
+bash install.gg
 
-`mv nebula.blueprint /www/var/pterodactyl`
+# NOW RUN THE THEME
+cd /etc/pterodactyl
+blueprint -install nebula
 
 # ORTHER INFORMATION
 `https://blueprint.zip`
