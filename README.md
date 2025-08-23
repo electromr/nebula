@@ -7,8 +7,6 @@
 # RUN INSTALLER
 `bash install.gg`
 
-# COME IN PTERODACTYL DIRECTYL
-`cd /etc/pterodactyl`
 
 # RUN NEBULA DESIGNER IN PANEL
 `blueprint -install nebula`
