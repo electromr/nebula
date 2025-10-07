@@ -1,5 +1,5 @@
 # CLONE
-`git clone https://github.com/username5642/nebula.git`
+`git clone https://github.com/electromr/nebula.git`
 
 # CD
 `cd nebula`
