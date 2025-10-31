@@ -1,4 +1,4 @@
 
-mv nebula.blueprint /var/www/pterodactyl
+mv mcplugins.blueprint /var/www/pterodactyl
 cd
 echo Nebula Sucessfully Come to pterodactyl Directyl
