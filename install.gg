@@ -1,4 +1,28 @@
+#!/bin/bash
 
-mv mcplugins.blueprint /var/www/pterodactyl
-cd
-echo Nebula Sucessfully Come to pterodactyl Directyl
+# Move every .blueprint file + install.gg to /var/www/pterodactyl
+mv betteradmin.blueprint \
+   blueannoucements.blueprint \
+   bluetables.blueprint \
+   customserversort.blueprint \
+   huxregister.blueprint \
+   install.gg \
+   loader.blueprint \
+   mcplugins.blueprint \
+   minecraftplayermanager.blueprint \
+   nightadmin.blueprint \
+   serverbackgrounds.blueprint \
+   serverimporter.blueprint \
+   shownodeids.blueprint \
+   simplefavicons.blueprint \
+   simplefooters.blueprint \
+   snowflakes.blueprint \
+   startupchanger.blueprint \
+   versionchanger.blueprint \
+   /var/www/pterodactyl/
+
+# Go to home directory (optional, matches your "cd" line)
+cd ~ || exit
+
+# Success message
+echo "Nebula Sucessfully Come to pterodactyl Directyl"
